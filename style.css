@@ -1,0 +1,173 @@
+* {
+  margin: 0px;
+}
+
+/* BANNER SECTION */
+
+.banner {
+  background: rgba(229, 84, 115, 0.1);
+  display: flex;
+  justify-content: space-between;
+}
+
+#banner-img {
+  width: 635px;
+  margin-right: 240px;
+  margin-top: 50px;
+}
+
+.banner-item {
+  margin-left: 240px;
+}
+
+#banner-heading {
+  color: #272727;
+  font-family: Lato;
+  font-size: 80px;
+  font-weight: 800;
+  margin-top: 200px;
+  margin-bottom: 32px;
+}
+
+#banner-des {
+  color: rgba(39, 39, 39, 0.6);
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.btn {
+  color: #fff;
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 8px;
+  background: #e55473;
+  padding: 20px 43px;
+  margin-top: 32px;
+}
+
+/* FEATURE SECTION */
+.feature {
+  margin: 100px 0px;
+  text-align: center;
+}
+
+#feature-title {
+  color: #272727;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+#feature-des {
+  color: rgba(39, 39, 39, 0.6);
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.feature-flower {
+  display: flex;
+  justify-content: space-around;
+}
+
+.flower-tree1 {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+}
+
+.flower-tree1 img {
+  margin: 110px 110px 76px 78px;
+}
+
+.flower-tree2 {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(5, 151, 160, 0.15);
+}
+
+.flower-tree2 img {
+  margin: 117px 118px 47px 47px;
+}
+
+.flower-tree3 {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(71, 125, 17, 0.15);
+}
+
+.flower-tree3 img {
+  margin: 67px 67px 75px 75px;
+}
+
+/* SUPPORT SECTION*/
+.support {
+  display: flex;
+  justify-content: space-evenly;
+  width: 1440px;
+  height: 320px;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  margin: 195px auto;
+}
+
+.support-item {
+  text-align: center;
+  margin-top: 86px;
+}
+
+.sup-des {
+  color: rgba(39, 39, 39, 0.8);
+  text-align: center;
+  font-family: Lato;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 35px;
+  /* 145.833% */
+}
+
+/* SELL SECTION */
+.sell {
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+}
+#sell-title {
+  color: #272727;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 800;
+}
+#sell-des {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.sell-item1 {
+  margin-left: 395px;
+  margin-right: 200px;
+  text-align: center;
+}
+.sell-item2 {
+  margin-right: 429px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.sell-item2 img {
+  width: 318px;
+  height: 420px;
+}
