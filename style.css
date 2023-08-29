@@ -72,12 +72,13 @@
 
 .feature-flower {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 .flower-tree1 {
   width: 464px;
   height: 538px;
+  margin-right: 24px;
   border-radius: 300px 300px 0px 0px;
   background: rgba(167, 33, 98, 0.15);
 }
@@ -89,6 +90,7 @@
 .flower-tree2 {
   width: 464px;
   height: 538px;
+  margin-right: 24px;
   border-radius: 300px 300px 0px 0px;
   background: rgba(5, 151, 160, 0.15);
 }
@@ -227,4 +229,41 @@ span {
   height: 64px;
   border-radius: 8px;
   background: #fff;
+}
+/* footer */
+.footer {
+  height: 449px;
+  margin-top: 128px;
+  color: white;
+  text-align: center;
+  background-color: #111010;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#footer-title {
+  color: rgb(255, 255, 255);
+  font-family: Lato;
+  font-size: 48px;
+  margin-bottom: 24px;
+}
+#footer-title span {
+  color: #e55473;
+  font-family: Lato;
+  font-size: 48px;
+  margin-bottom: 24px;
+}
+#footer-des {
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 32px;
+}
+
+#footer-res {
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
