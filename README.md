@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Flower Shop</h1>
 
-<p id="description">A simple Flower-Shop. Developed with pure HTML AND CSS. Not Responsive yet.</p>
+<p id="description">A simple Flower-Shop. <br>Developed with pure HTML AND CSS.</br> <br>Not Responsive yet.<\br></p>
 
 <h2>🚀 Demo</h2>
 
