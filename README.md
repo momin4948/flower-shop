@@ -1,15 +1,11 @@
-<h1 align="center" id="title">Flower Shop</h1>
-
-<p id="description">A simple Flower-Shop. <br>Developed with pure HTML AND CSS.</br> <br>Not Responsive yet.<\br></p>
-
+ <h1 align="center" id="title">Flower Shop</h1>
+ <ul>
+  <li>Developed with pure HTML AND CSS.</li>
+  <li>Not Responsive yet.</li>
+</ul> 
 <h2>🚀 Demo</h2>
-
-[https://momin4948.github.io/flower-shop/](https://momin4948.github.io/flower-shop/)
-
-<h2>Project Screenshots:</h2>
-
-<img src="<a href=" https:="" ibb.co="" 5x4fybf"="">
-
-<img src="https://i.ibb.co/5x4FYbF/screencapture-momin4948-github-io-flower-shop-2023-08-29-14-04-51.png" alt="screencapture-momin4948-github-io-flower-shop-2023-08-29-14-04-51" border="0">
-
-" alt="project-screenshot" width=500 height=500/>
+<hr>
+[https://momin4948.github.io/flower-shop/](https://momin4948.github.io/flower-shop/)</br>
+<hr>
+<h2>Project Screenshots</h2>
+	
