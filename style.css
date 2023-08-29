@@ -142,12 +142,14 @@
   border-radius: 8px;
   background: rgba(229, 84, 115, 0.05);
 }
+
 #sell-title {
   color: #272727;
   font-family: Lato;
   font-size: 40px;
   font-weight: 800;
 }
+
 #sell-des {
   color: rgba(39, 39, 39, 0.6);
   text-align: center;
@@ -157,17 +159,72 @@
   line-height: 30px;
 }
 
+span {
+  color: #e55473;
+}
+
 .sell-item1 {
   margin-left: 395px;
   margin-right: 200px;
   text-align: center;
 }
+
 .sell-item2 {
   margin-right: 429px;
   margin-top: 100px;
   margin-bottom: 100px;
 }
+
 .sell-item2 img {
   width: 318px;
   height: 420px;
+}
+
+/* SOCIAL SECTION */
+.social {
+  margin: 128px auto;
+  text-align: center;
+}
+
+.social-img {
+  margin-top: 50px;
+}
+
+.social-img img {
+  width: 342px;
+  margin: 0px 10px;
+}
+
+/* deal */
+.deal {
+  background-image: url(images/Rectangle\ 9.png);
+  width: 1440px;
+  height: 449px;
+  margin: 100px auto;
+  text-align: center;
+  margin-bottom: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#deal-title {
+  color: #272727;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+#deal-des {
+  color: rgba(39, 39, 39, 0.6);
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+#input-deal {
+  width: 700px;
+  height: 64px;
+  border-radius: 8px;
+  background: #fff;
 }
